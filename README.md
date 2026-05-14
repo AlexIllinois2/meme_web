@@ -1,7 +1,10 @@
 # meme 本地表情图分享
 
 这是一个根据关键词搜索本地表情图片的程序
-[安卓版:网盘下载](https://1821952444.share.123865.com/123pan/l3Sajv-qHYKd?pwd=6666#)
+
+## 安卓版下载
+[点击下载](https://github.com/AlexIllinois2/meme_web/releases/download/0.0.2/app-universal-release.apk) 
+[网盘下载](https://1821952444.share.123865.com/123pan/l3Sajv-qHYKd?pwd=6666#)
 
 ## 功能
 
